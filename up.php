@@ -2,3 +2,5 @@
    <input type="file" id="myFile" size="32" name="image_field" value="">
    <input type="submit" name="Submit" value="upload">
  </form>
+
+ <p>ちょっと作業しました</p>
