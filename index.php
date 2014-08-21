@@ -32,4 +32,7 @@ function image_upload($filename){
     $filename = "test.jpg";
     image_upload($filename);
 
-?>
+
+
+
+
